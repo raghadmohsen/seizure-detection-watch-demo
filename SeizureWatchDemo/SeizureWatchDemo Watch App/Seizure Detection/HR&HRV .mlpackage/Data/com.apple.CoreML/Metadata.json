@@ -1,0 +1,12 @@
+{
+  "MLModelVersionStringKey" : "0.1.0",
+  "MLModelDescriptionKey" : "This machine learning model is designed to analyze biometric data from the Apple Watch — such as heart rate and motion — to detect potential early signs of epileptic seizures.\nIt is trained and optimized for educational and experimental purposes only, and is not intended for clinical or medical use.",
+  "MLModelCreatorDefinedKey" : {
+    "com.apple.createml.version" : "15.1.1",
+    "com.apple.createml.app.tag" : "150.3",
+    "com.apple.coreml.model.preview.type" : "tabularRegressor",
+    "com.apple.createml.app.version" : "6.1"
+  },
+  "MLModelAuthorKey" : "Raghad Mohsen",
+  "MLModelLicenseKey" : "--"
+}

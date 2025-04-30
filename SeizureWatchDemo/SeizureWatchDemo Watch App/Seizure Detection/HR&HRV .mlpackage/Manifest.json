@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "8E5C8E24-CE74-42FC-AA5D-B78D119238D0": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "HR&HRV .mlmodel",
+            "path": "com.apple.CoreML/HR&HRV .mlmodel"
+        },
+        "F3CF00A6-9F4B-427E-9248-E4A53DEBF877": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "FF907417-D799-48F9-B584-7A98FAC3FA3A": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        }
+    },
+    "rootModelIdentifier": "8E5C8E24-CE74-42FC-AA5D-B78D119238D0"
+}

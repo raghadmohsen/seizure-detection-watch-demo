@@ -1,0 +1,15 @@
+Legal Notice and Usage Disclaimer
+
+This project is developed for **educational and experimental purposes only**. It is not intended for medical diagnosis, treatment, or monitoring, and should not be used as a replacement for professional healthcare tools or advice.
+
+The code provided in this repository is open to the public for learning and inspiration. Any use of this code in real-world applications or commercial products is at the user's own risk.
+
+The author makes no warranties regarding the functionality, safety, or accuracy of the application, and assumes no liability for any outcomes resulting from its use.
+
+Author: Raghad Mohsen
+Email: raghadalawli@gmail.com
+GitHub: https://github.com/raghadmohsen
+LinkedIn: https://www.linkedin.com/in/raghad-mohsen-27a51423a/
+
+By using this project, you acknowledge and agree to these terms.
+

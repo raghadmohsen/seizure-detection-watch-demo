@@ -1,0 +1,24 @@
+{
+  "Inputs" : {
+    "HRV" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Activity" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "heart_rate" : {
+      "MLFeatureShortDescription" : "--"
+    }
+  },
+  "Outputs" : {
+    "label" : {
+      "MLFeatureShortDescription" : "--"
+    }
+  },
+  "TrainingInputs" : {
+
+  },
+  "States" : {
+
+  }
+}

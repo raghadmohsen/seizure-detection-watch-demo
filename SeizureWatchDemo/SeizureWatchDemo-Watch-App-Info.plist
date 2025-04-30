@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Health Records Usage Description</key>
+	<string>This App needs access to records heart rate data to HealthKit</string>
+	<key>Health Update Usage Description</key>
+	<string>This App needs access to write heart rate data to HealthKit
+</string>
+	<key>Motion Usage Description</key>
+	<string>This App uses motion data to detect your activity (e.g., walking, running)</string>
+</dict>
+</plist>
