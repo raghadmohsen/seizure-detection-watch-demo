@@ -18,7 +18,7 @@ class PredictionManager {
             
             return prediction.label
         } catch {
-             print("Prediction error: \(error.localizedDescription)")
+             print("Prediction error:\(error.localizedDescription)")
             return 9
         }
     }
